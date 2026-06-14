@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+patch_example.png
+predict_log*.txt
+*.log
+
+# Large rasters — download from hiring.bhume.in/start
+data/*/imagery.tif
+data/*/boundaries.tif
+
+# Starter kit zip artifact
+bhume-starter-kit/
+bhume-starter-kit.zip
