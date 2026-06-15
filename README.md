@@ -158,10 +158,13 @@ Managed via `uv` / `pyproject.toml`:
 
 - **Test:** [hiring.bhume.in/test](https://hiring.bhume.in/test)
 - **Submit:** [hiring.bhume.in/submit](https://hiring.bhume.in/submit)
-- **Contact:** yash@bhume.in
 
 ---
 
 ## License
 
-Take-home submission for BhuMe engineering review. Village data © BhuMe — download from their hiring site.
+This project is licensed under the MIT License.
+
+Copyright (c) 2026 Jarpula Nirjala
+
+See the [LICENSE](LICENSE) file for details.
